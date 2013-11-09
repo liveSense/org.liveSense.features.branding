@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-features-branding" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-features-branding" version="${liveSense.features.branding.version}" description="liveSense features branding">
+		<bundle>mvn:com.github.livesense/org.liveSense.features.branding/${liveSense.features.branding.version}</bundle>
+	</feature>
+</features>
