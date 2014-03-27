@@ -26,6 +26,11 @@
 		<version>2-SNAPSHOT</version>
 		<relativePath>..</relativePath>
 	</parent>
+	<scm>
+		<connection>scm:git:https://github.com/liveSense/org.liveSense.features.branding.git</connection>
+		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.features.branding.git</developerConnection>
+		<url>https://github.com/liveSense/org.liveSense.features.branding</url>
+	</scm>
 
     <artifactId>org.liveSense.features.branding</artifactId>
     <packaging>bundle</packaging>
